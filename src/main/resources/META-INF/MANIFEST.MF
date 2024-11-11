@@ -1,5 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: 
 Class-Path: javafx-controls-22.0.1.jar javafx-base-22.0.1-linux.jar java
  fx-fxml-22.0.1.jar javafx-base-22.0.1.jar javafx-graphics-22.0.1-linux.
  jar javafx-graphics-22.0.1.jar javafx-fxml-22.0.1-linux.jar javafx-cont
